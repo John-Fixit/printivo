@@ -1,0 +1,281 @@
+*{
+
+}
+.shadow-sm {
+    height: 50px;
+    background-color: #F7F6F4;
+}
+
+b {
+    color: #5E728D;
+}
+
+#col2 {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.ml-5 {
+    margin-left: 150px;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+
+}
+
+#flag {
+    width: 20px;
+    height: 20px;
+}
+
+.Nigeria {
+    border: thin solid black;
+    margin-left: -50px;
+    width: 100px;
+    padding-left: 15px;
+    height: 35px;
+    border-radius: 20px;
+}
+
+.col-sm-4 {
+    margin-top: 50px;
+    margin-left: -100px;
+
+}
+.printivo-image{
+    width: 180px;
+    margin-left: 65px;
+    position: sticky;
+    top: 0vh;
+}
+
+.bg-primary {
+    background-color: #ECE8D9 !important;
+}
+.printivo{
+    position: sticky;
+    bottom: 0vh;
+}
+.home {
+    margin-left: 30px;
+    color: #516885;
+
+}
+
+.all {
+    color: #516885;
+    margin-left: 70px;
+
+}
+
+.become {
+    color: #516885;
+    margin-left: 80px;
+}
+
+.cost {
+    margin-left: 120px;
+    color: #516885;
+
+}
+
+.sign {
+    margin-left: 150px;
+    color: #516885;
+}
+
+.create {
+    width: 10px !important;
+    margin-left: 120px;
+    color: #516885;
+}
+
+.m {
+    margin-left: 20px;
+}
+
+.pl-5 {
+    padding-left: 70px !important;
+}
+
+#quality {
+    font-family: serif;
+    font-size: 80px;
+    font-weight: 700;
+    color: #384A62;
+}
+
+#shipped {
+    font-size: 25px;
+    font-weight: 600;
+    color: #708095;
+}
+
+#what {
+    font-size: 15px;
+
+    color: #386DA0;
+}
+
+.form-control {
+    height: 70px;
+    background-color: #FFFFFF;
+    position: relative;
+    outline: none;
+    border: none;
+}
+
+.button {
+    width: 30px;
+    position: absolute;
+    left: 600px;
+    margin-top: -50px;
+}
+
+.w-75 {
+    width: 450px !important;
+    margin-left: 200px;
+    margin-top: -10px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    color: #384A62;
+
+}
+
+.btn-danger {
+    width: 200px !important;
+    border: none;
+    background-color: #D77F81 !important;
+    padding: 10px;
+}
+
+.see {
+    font-size: large;
+    color: #D77F81;
+}
+
+.pb-5 {
+    margin-top: 20px;
+}
+.ads{
+    height: 30vh;
+}
+.ads:hover{
+    transform: scale(1.008);
+}
+.nig {
+    color: #384A62;
+    font-family: serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.our {
+    color: #506683;
+    font-size: x-large;
+}
+.microsoft{
+  width: 180vh;
+  margin-left: -1vh;
+  border: none;
+}
+
+.fman {
+    background-color: #E5E7EB;
+    padding: 80px;
+}
+
+.pic {
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-subtitle {
+    margin-left: 10vh;
+    margin-top: -8vh;
+}
+.title{
+    color: #384A62;
+}
+.price{
+    color: #384A62;
+}
+.rate{
+    color: #B7BFC9;
+}
+.times {
+    width: 55px !important;
+    margin-top: 20px;
+}
+.what-to-know{
+    border: none;
+}
+.node{
+    border: none;
+    background: #F7F6F4;
+}
+.node a{
+    color: #4F5F74;
+    text-decoration: underline;
+}
+.techs {
+    background-color: #F7F6F4;
+    padding: 10vh;
+}
+.tech {
+    display: flex;
+    justify-content: space-evenly;
+}
+.forbes {
+    background-image: url(/printivo/printivo-images/Forbes-removebg-preview.png);
+    background-repeat: no-repeat;
+}
+.cnn {
+    background-image: url(/printivo/printivo-images/CNN-removebg-preview.png);
+    background-repeat: no-repeat;
+}
+
+.sb{
+    background-color: #ECE8D9;
+    padding: 15vh;
+    border: none;
+
+}
+.fc{
+    border: none;
+    position: relative;
+    margin-left: -45vh;
+
+}
+.bn{
+    width: 150px !important;
+    height: 9vh;
+    padding: 10px;
+  position: absolute;
+  top: 0.5vh;
+  left: 15vh;
+  background-color: #384A62;
+}
+.note{
+  background: #374A5C !important;
+  padding: 15vh !important;
+}
+.btn-info{
+    position: fixed;
+    bottom: 0vh;
+    width: 20vh;
+    background: #F7279E;
+    border-top-left-radius: 1vh;
+    border-top-right-radius: 1vh; 
+}
+@media only screen and (max-width=320px){ 
+      .corporate{
+          display: none;
+      }
+}
