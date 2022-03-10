@@ -1,5 +1,5 @@
-*{
-
+body{
+    overflow-x: hidden;
 }
 .shadow-sm {
     height: 50px;
@@ -233,11 +233,11 @@ b {
     justify-content: space-evenly;
 }
 .forbes {
-    background-image: url(/printivo/printivo-images/Forbes-removebg-preview.png);
+    background-image: url(/images/Forbes-removebg-preview.png);
     background-repeat: no-repeat;
 }
 .cnn {
-    background-image: url(/printivo/printivo-images/CNN-removebg-preview.png);
+    background-image: url(/images/CNN-removebg-preview.png);
     background-repeat: no-repeat;
 }
 
@@ -257,10 +257,10 @@ b {
     width: 150px !important;
     height: 9vh;
     padding: 10px;
-  position: absolute;
-  top: 0.5vh;
-  left: 15vh;
-  background-color: #384A62;
+    position: absolute;
+    top: 0.5vh;
+    left: 15vh;
+    background-color: #384A62;
 }
 .note{
   background: #374A5C !important;
@@ -273,9 +273,4 @@ b {
     background: #F7279E;
     border-top-left-radius: 1vh;
     border-top-right-radius: 1vh; 
-}
-@media only screen and (max-width=320px){ 
-      .corporate{
-          display: none;
-      }
 }
