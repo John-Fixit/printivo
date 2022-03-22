@@ -233,11 +233,11 @@ b {
     justify-content: space-evenly;
 }
 .forbes {
-    background-image: url(/images/Forbes-removebg-preview.png);
+    background-image: url(images/Forbes-removebg-preview.png);
     background-repeat: no-repeat;
 }
 .cnn {
-    background-image: url(/images/CNN-removebg-preview.png);
+    background-image: url(images/CNN-removebg-preview.png);
     background-repeat: no-repeat;
 }
 
